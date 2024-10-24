@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  min-height: 100vh;
+}
+
+.control-row {
+  margin-top: 20px;
+}
+
+.number-input {
+  max-width: 107px;
+}
